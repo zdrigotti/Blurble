@@ -1,0 +1,28 @@
+{
+  "name": "protected-river-34417",
+  "version": "1.0.0",
+  "description": "My implementation of a Twitter clone",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdrigotti/Blurble.git"
+  },
+  "keywords": [
+    "blurble"
+  ],
+  "author": "Zach Rigotti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zdrigotti/Blurble/issues"
+  },
+  "homepage": "https://github.com/zdrigotti/Blurble#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
