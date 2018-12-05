@@ -4,7 +4,7 @@
   "description": "My implementation of a Twitter clone",
   "main": "server.js",
   "scripts": {
-    "lint": "./node_modules/.bin/eslint index.js",
+    "lint": "./node_modules/.bin/eslint server.js",
 	"test": "node test.js"
   },
   "repository": {
