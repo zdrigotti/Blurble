@@ -1,6 +1,6 @@
-<h2>Login</h2>
+<h2>Sign Up</h2>
 
-<%= form_for @changeset, @action, fn f -> %>
+<%= form_for :user, @action, fn f -> %>
   <div class="form-group">
     <%= label f, :username, class: "control-label" %>
     <%= text_input f, :username, class: "form-control" %>
